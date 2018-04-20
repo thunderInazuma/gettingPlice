@@ -1,0 +1,29 @@
+4 Walking Ballista
+1 Siren Stormtamer
+4 Mausoleum Wanderer
+4 Etherium Sculptor
+3 Chief Engineer
+3 Glint-Nest Crane
+4 Grand Architect
+2 Hangarback Walker
+2 Myr Superion
+1 Arcbound Ravager
+4 Lodestone Golem
+1 Wurmcoil Engine
+1 Cranial Plating
+2 Throne of the God-Pharaoh
+1 The Immortal Sun
+16 Island
+4 Blinkmoth Nexus
+2 Darksteel Citadel
+1 Academy Ruins
+
+Sideboard
+1 Trinket Mage
+1 Spellskite
+2 Annul
+2 Spell Pierce
+3 Ceremonious Rejection
+1 Relic of Progenitus
+2 Pithing Needle
+3 Thorn of Amethyst
